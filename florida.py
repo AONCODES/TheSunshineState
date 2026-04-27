@@ -1,0 +1,1 @@
+print("Aina paistaa aurinko!")
